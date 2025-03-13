@@ -1,4 +1,9 @@
-readme
+readme.txt;
+
+to test git.commands;
+
+
+
 
 2nd version;
 
