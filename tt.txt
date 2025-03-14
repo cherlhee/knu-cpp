@@ -1,8 +1,46 @@
 
 
+2nd version of tt.txt
 
+
+<<<<<<< HEAD
 hello, tt
 
 how are u
 
 
+=======
+
+---------
+
+---
+
+--
+
+
+
+hello,kitty
+
+
+-------------------
+
+dfdf
+
+
+dfdf
+
+
+
+dfd
+
+jk
+
+dfsd
+dsf
+
+
+
+
+
+dfdf
+>>>>>>> 8fd8b1c4a4fc5f85d6b6775c06c8662553506350
