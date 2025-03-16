@@ -1,5 +1,6 @@
 
 
+<<<<<<< HEAD
 
 hello, tt
 
@@ -7,3 +8,54 @@ good morining
 
 
 bye
+=======
+after removing user.name and user.email
+
+
+
+
+2nd version of tt.txt
+
+
+<<<<<<< HEAD
+hello, tt
+
+how are u
+
+
+=======
+
+---------
+
+---
+
+--
+
+
+
+hello,kitty
+
+
+-------------------
+
+dfdf
+
+
+dfdf
+
+
+
+dfd
+
+jk
+
+dfsd
+dsf
+
+
+
+
+
+dfdf
+>>>>>>> 8fd8b1c4a4fc5f85d6b6775c06c8662553506350
+>>>>>>> fb41f8f57c86fbbb52684f701d875a899f878f08

@@ -1,10 +1,18 @@
+<<<<<<< HEAD
 readme.txt
+=======
+readme.txt;
+
+to test git.commands;
+
+>>>>>>> fb41f8f57c86fbbb52684f701d875a899f878f08
 
 
 
 2nd version;
 
 
+<<<<<<< HEAD
 
 
 hello, kitty;
@@ -15,3 +23,8 @@ good luck;
 bye;
 
 
+=======
+1st git learning;
+
+bye
+>>>>>>> fb41f8f57c86fbbb52684f701d875a899f878f08

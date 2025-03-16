@@ -1,0 +1,29 @@
+
+
+
+HP@NT-HP MINGW64 /c/lecture/knu-cpp/git (master)
+$ git push --set-upstream origin master
+To https://github.com/cherlhee/knu_cpp.git
+ ! [rejected]        master -> master (fetch first)
+error: failed to push some refs to 'https://github.com/cherlhee/knu_cpp.git'
+hint: Updates were rejected because the remote contains work that you do not
+hint: have locally. This is usually caused by another repository pushing to
+hint: the same ref. If you want to integrate the remote changes, use
+hint: 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+
+
+
+
+git push --set-upstream origin master;
+-----
+HP@NT-HP MINGW64 /c/lecture/knu-cpp/git (master)
+$ git push
+fatal: The current branch master has no upstream branch.
+To push the current branch and set the remote as upstream, use
+
+    git push --set-upstream origin master
+
+To have this happen automatically for branches without a tracking
+upstream, see 'push.autoSetupRemote' in 'git help config'.
