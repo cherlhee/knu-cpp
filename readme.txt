@@ -1,6 +1,16 @@
-<<<<<<< HEAD
+
+
+tested at home;;;
+tttttt...ttttttt
+
+
+k<<<<<<< HEAD
 readme.txt
-=======
+ik
+
+
+
+kk=======
 readme.txt;
 
 to test git.commands;
